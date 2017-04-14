@@ -3,6 +3,7 @@ Git is free software distrubuted under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 I am changing a branch.
+In master.
 
 
 
