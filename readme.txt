@@ -4,4 +4,6 @@ Git has a mutable index called stage.
 Git tracks changes.
 I am changing a branch.
 I am at master.
+I am at new.
+
 
