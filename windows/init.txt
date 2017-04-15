@@ -1,4 +1,0 @@
-int WINAPI WinMain(HINSTANCE hinstance, HINSTANCE prehinstance, LPSTR cmd, int cmdshow)
-{
-	return 0;
-}
